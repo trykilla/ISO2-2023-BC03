@@ -4,4 +4,5 @@ Repositorio para el laboratorio de Iso para 2022.
 Participantes: 
 * Héctor Alberca Sánchez-Quintanar.
 * Dario Andrés Fallavollita Figueroa.
-* Rubén Crexpo Calcerrada
+* Rubén Crespo Calcerrada
+* Raúl Calzado Olmo
