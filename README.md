@@ -8,3 +8,7 @@ Participantes:
 * Raúl Calzado Olmo
 * Pedro Campos Castellanos
 * Adrián Carrasco Espinosa
+
+## Release de la alpha-version
+
+* Se hace el release de la versión alpha, con todos los componentes en su versión 1.0.0.
