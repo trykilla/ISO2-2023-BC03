@@ -9,6 +9,6 @@ Participantes:
 * Pedro Campos Castellanos
 * Adrián Carrasco Espinosa
 
-## Release de la alpha-version
+## Release de la beta-version
 
-* Se hace el release de la versión alpha, con todos los componentes en su versión 1.0.0.
+* Se hace el release de la versión beta, con todos los componentes en su versión 1.0.1.
