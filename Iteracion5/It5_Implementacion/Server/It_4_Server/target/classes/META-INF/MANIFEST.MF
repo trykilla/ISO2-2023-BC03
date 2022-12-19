@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: TryKill
-Build-Jdk: 17.0.4.1
-Implementation-Title: It_4_Server
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: BC03
-Implementation-URL: http://www.example.com
-Created-By: Maven Integration for Eclipse
-
